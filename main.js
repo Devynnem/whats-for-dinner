@@ -15,19 +15,11 @@ var dessert = ["Apple Pie", "Lemon Meringue Pie", "Black Forest Cake",
     "Pavlova", "Pumpkin Pie", "Key Lime Pie", "Tart Tatin",
     "Croissants", "Eclairs"]
 
-
-
 var cookPotImage = document.querySelector(".image");
 var foodSuggestion = document.querySelector(".food-suggestion");
 var randomResults = document.querySelector(".random-results");
 var randomFood = document.querySelector(".random-food");
 var currentFood;
-
-// function cookPot() {
-//     document.querySelector(".box2").classList.add("hidden");
-//     document.querySelector(".food-suggestion").classList.remove("hidden");
-
-// }
 
 function letsCook() {
     var randomSide = getRandomIndex(side);
@@ -46,14 +38,8 @@ function letsCook() {
         currentFood = `${mainDish[randomMainDish]} with a side of ${side[randomSide]} and ${dessert[randomDessert]} for dessert`
      }
         randomFood.innerText = `${currentFood}!`
-        // randomFood.innerText += currentFood + '!'
-    
-
 }
-        
-
-
 
 function getRandomIndex(array) {
     return Math.floor(Math.random() * array.length);
- };
+};
