@@ -1,51 +1,25 @@
-# What's for Dinner?
-
-## Overview
-
-What's for dinner? The ultimate question. You will be building an app that helps users choose a recipe and put together meals. 
-
-This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
-
-The spec for this project can be found [here](https://frontend.turing.io/projects/module-1/dinner.html). 
-
-## Learning Goals
-
-- Gain experience building an application that utilizes HTML, CSS and JavaScript
-- Write HTML and CSS to match a provided comp
-- Understand how to listen to and respond to user events
-- Individualize your programming skill set
-
-## Setup
-
-- Fork this project to your own Github account
-- Clone the repository to your local machine
-- `cd` into the project
-- Read this README thoroughly, then begin working!
-
-______________________________________________________  
-# README Template  
-Before turning this project in, erase this line and everything above it and fill in the info below.  
-______________________________________________________  
-
 # What's for Dinner? 
 
 ### Abstract:
-[//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
+This app was made to help with the stress of picking what's for dinner. Instead of wasting time deciding what you will eat, you can have your problems solved with a click of a button!
+You are able to pick an entire meal or skip to the good part and just have dessert.You can also choose sides and main dish with this app.
 
 ### Installation Instructions:
-[//]: <> (What steps does a person have to take to get your app cloned down and running?)
+ No need to clone or download, just click this [link](file:///Users/devynnemarshall/Turing/mod1/project3/whats-for-dinner/index.html?)!
+
 
 ### Preview of App:
-[//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+![alt text](/Users/devynnemarshall/Turing/mod1/project3/whats-for-dinner/ScreenShot2023-02-19at4.26.32PM.png?raw)
 
 ### Context:
-[//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
+I am 3 weeks into Mod 1 and this is my second solo project. I spent approximately 16 hours on this project as this was my first time writing HTML and CSS.
 
 ### Contributors:
-[//]: <> (Who worked on this application? Link to their GitHubs.)
+[Devynne Marshall](https://github.com/devynnem)
 
 ### Learning Goals:
-[//]: <> (What were the learning goals of this project? What tech did you work with?)
+The learning goals were to gain more experience working with Javascript, CSS, and HTML. I to the best of my abilities matched an existing comp and provided functionality to all present buttons. 
 
 ### Wins + Challenges:
-[//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?)
+I still have a lot to learn when it comes to all three Javascript, CSS, and HTML, but it was nice to get my hands in some code and attempt this. Some wins were seeing it appear on the screen correctly and also follow the code and see what exactly was happening on the page. The challenge was when nothing would happen on the page and figuring out where I needed to be to see change happening. A lot of room for growth, but at least I know what I''ll be having for dinner, Chicken parm, garden side salad, and cheesecake!
+
