@@ -9,7 +9,7 @@ You are able to pick an entire meal or skip to the good part and just have desse
 
 
 ### Preview of App:
-![alt text](/Users/devynnemarshall/Turing/mod1/project3/whats-for-dinner/assets/whatsfordinner.png?raw=true) 
+![alt text](https://github.com/Devynnem/whats-for-dinner/blob/main/assets/whatsfordinner.png?raw=true) 
 
 ### Context:
 I am 3 weeks into Mod 1 and this is my second solo project. I spent approximately 16 hours on this project as this was my first time writing HTML and CSS.
