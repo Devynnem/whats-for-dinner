@@ -5,11 +5,11 @@ This app was made to help with the stress of picking what's for dinner. Instead 
 You are able to pick an entire meal or skip to the good part and just have dessert.You can also choose sides and main dish with this app.
 
 ### Installation Instructions:
- No need to clone or download, just click this [link](file:///Users/devynnemarshall/Turing/mod1/project3/whats-for-dinner/index.html?)!
+ [link](https://github.com/Devynnem/whats-for-dinner)!
 
 
 ### Preview of App:
-![alt text](/Users/devynnemarshall/Turing/mod1/project3/whats-for-dinner/ScreenShot2023-02-19at4.26.32PM.png?raw)
+![alt text](/Users/devynnemarshall/Turing/mod1/project3/whats-for-dinner/assets/whatsfordinner.png?raw=true) 
 
 ### Context:
 I am 3 weeks into Mod 1 and this is my second solo project. I spent approximately 16 hours on this project as this was my first time writing HTML and CSS.
