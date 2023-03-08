@@ -5,7 +5,7 @@ This app was made to help with the stress of picking what's for dinner. Instead 
 You are able to pick an entire meal or skip to the good part and just have dessert.You can also choose sides and main dish with this app.
 
 ### Installation Instructions:
- [link](https://github.com/Devynnem/whats-for-dinner)!
+ Click this [link](https://devynnem.github.io/whats-for-dinner/)!
 
 
 ### Preview of App:
